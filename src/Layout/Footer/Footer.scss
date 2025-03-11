@@ -1,0 +1,10 @@
+@import '@axa-fr/react-toolkit-core/src/common/scss/core.scss';
+
+.af-footer {
+  background-color: $white;
+  &--fullscreen {
+    .container {
+      max-width: 100%;
+    }
+  }
+}
