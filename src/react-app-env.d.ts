@@ -1,0 +1,15 @@
+declare module '@axa-fr/react-oidc';
+declare module '@axa-fr/react-toolkit-all';
+declare module '@axa-fr/react-toolkit-loader';
+declare module '@axa-fr/react-toolkit-help';
+declare module '@axa-fr/react-toolkit-form-input-text';
+declare module '@types/react-dom';
+declare module '@types/react-router';
+declare module '@types/react-router-dom';
+declare module 'intl';
+declare module 'lodash';
+declare module '*.svg';
+declare module '*.png';
+declare module '*.pdf';
+declare module 'downloadjs';
+declare module 'react-jsx-parser/dist/index.d.ts';

@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<JsonEditor/> Should render JsonEditor 1`] = `
+<DocumentFragment>
+  <button
+    class="btn af-btn af-btn--editor"
+    type="submit"
+  >
+    <span
+      class="af-btn__text"
+    >
+      Edit params
+    </span>
+  </button>
+</DocumentFragment>
+`;

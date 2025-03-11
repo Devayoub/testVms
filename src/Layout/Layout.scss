@@ -1,0 +1,5 @@
+@import '@axa-fr/react-toolkit-core/dist/assets/scss/core.scss';
+
+.af-main {
+  min-height: calc(100vh - (calc(var(--fullheaderHeight) + var(--footerHeight))));
+}
